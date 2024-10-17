@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/html/*"
+  to = "https://sccmmu.netlify.app/:splat"
+  status = 200
+  force = false
+
